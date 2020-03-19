@@ -19,7 +19,7 @@ h1{
 }
 
 @media(prefers-color-scheme:dark){
-    html,body
+    body,html
     {
         background:#1f1f1f;
         color:#f1f1f1
